@@ -75,7 +75,6 @@ metadata:
     app: course-app
 spec:
   type: ClusterIP
-  type: ClusterIP
   selector:
     app: course-app
   ports:
